@@ -9,6 +9,8 @@
 
 ## 🚀 Tecnologias e conhecimentos
 
+- C
+- Phyton
 - Java  
 - SQL  
 - Git e GitHub  
@@ -25,5 +27,5 @@
 
 ## 📫 Contato
 
-- LinkedIn: (coloca aqui depois)
-- Email: (se quiser)
+- LinkedIn: https://www.linkedin.com/in/vinicios-trindade-costa
+- Email: vinhicinhis@gmai.com
