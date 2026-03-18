@@ -21,7 +21,9 @@
 
 ## 📌 Projetos em destaque
 
-🔹 Em construção... (em breve projetos práticos aqui)
+🔹 Track Trail – Sistema em desenvolvimento com foco em organização e gestão  
+
+🔹 Sorriso do Cerrado – Aplicação web de e-commerce para uma loja de artesanato
 
 ---
 
