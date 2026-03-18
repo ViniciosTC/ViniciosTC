@@ -10,7 +10,7 @@
 ## 🚀 Tecnologias e conhecimentos
 
 - C
-- Phyton
+- Python
 - Java  
 - SQL  
 - Git e GitHub  
